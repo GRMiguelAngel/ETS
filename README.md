@@ -1,2 +1,2 @@
-# Prueba_ETS
+# ETS
 Repositorio de ETS
