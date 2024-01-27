@@ -35,7 +35,7 @@
   | Flujo básico | _CU-3_ |
   | Pre-condiciones |  _No tiene_ |  
   | Post-condiciones  | _El usuario debe de estar verificado (CU-4)_ |  
-  |  Requerimientos | __  |
+  |  Requerimientos |  |
   | Autor  | _Miguel Ángel García Rodríguez_ |
   |Fecha | _23/01/2024_ |
 
@@ -48,7 +48,7 @@
   | Flujo básico | _CU-3, CU-4_ |
   | Pre-condiciones | _El usuario debe de haber pedido prestado un libro (CU-3)_  |  
   | Post-condiciones  | _No tiene_  |  
-  |  Requerimientos | __  |
+  |  Requerimientos ||
   | Autor  | _Miguel Ángel García Rodríguez_ |
   |Fecha | _23/01/2024_ |
 
