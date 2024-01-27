@@ -10,7 +10,6 @@
   | Pre-condiciones | _No tiene_  |  
   | Post-condiciones  | _No tiene_  |  
   |  Requerimientos | _El libro debe existir_  |
-  |  Notas |  |
   | Autor  | _Miguel Ángel García Rodríguez_ |
   |Fecha | _23/01/2024_ |
 
@@ -24,7 +23,6 @@
   | Pre-condiciones | _No tiene_  |  
   | Post-condiciones  | _No tiene_  |  
   |  Requerimientos | _El libro debe el libro haber sido prestado primero_  |
-  |  Notas |  |
   | Autor  | _Miguel Ángel García Rodríguez_ |
   |Fecha | _23/01/2024_ |
 
@@ -38,7 +36,6 @@
   | Pre-condiciones |  _No tiene_ |  
   | Post-condiciones  | _El usuario debe de estar verificado (CU-4)_ |  
   |  Requerimientos | __  |
-  |  Notas |  |
   | Autor  | _Miguel Ángel García Rodríguez_ |
   |Fecha | _23/01/2024_ |
 
@@ -52,7 +49,6 @@
   | Pre-condiciones | _El usuario debe de haber pedido prestado un libro (CU-3)_  |  
   | Post-condiciones  | _No tiene_  |  
   |  Requerimientos | __  |
-  |  Notas |  |
   | Autor  | _Miguel Ángel García Rodríguez_ |
   |Fecha | _23/01/2024_ |
 
