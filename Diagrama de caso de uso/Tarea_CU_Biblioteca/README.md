@@ -13,7 +13,7 @@
   | Autor  | _Miguel Ángel García Rodríguez_ |
   |Fecha | _23/01/2024_ |
 
----
+
 
   |  Caso de Uso	(CU) | Devolver libro (CU-2) |
   |---|---|
@@ -26,7 +26,7 @@
   | Autor  | _Miguel Ángel García Rodríguez_ |
   |Fecha | _23/01/2024_ |
 
----
+
 
   |  Caso de Uso	(CU) | Prestar libro (CU-3) |
   |---|---|
@@ -39,7 +39,7 @@
   | Autor  | _Miguel Ángel García Rodríguez_ |
   |Fecha | _23/01/2024_ |
 
----
+
 
   |  Caso de Uso	(CU) | Verificar usuario (CU-4) |
   |---|---|
