@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T16:31:51.163Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" version="23.1.5" etag="_JCYH7Gn_HqzIoijkQ-O" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T16:43:00.671Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="J5oUM73uLmJA_zcuQYB1" version="23.1.5" type="github">
   <diagram name="Page-1" id="VyHNcZruvW4JUgFz-1xP">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9wDbFAJTqDomW-yk1ceF-1" target="9wDbFAJTqDomW-yk1ceF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-1" value="Socio" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9wDbFAJTqDomW-yk1ceF-2" target="9wDbFAJTqDomW-yk1ceF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="9wDbFAJTqDomW-yk1ceF-5" target="9wDbFAJTqDomW-yk1ceF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-5" value="Pagar con tarjeta de credito" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="265" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-9" value="Identificar tarjeta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-10" value="Identificar contacto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-12" value="Ofrecer ayuda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="355" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9wDbFAJTqDomW-yk1ceF-12" target="9wDbFAJTqDomW-yk1ceF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9wDbFAJTqDomW-yk1ceF-10" target="9wDbFAJTqDomW-yk1ceF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-21" value="Include" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="198" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9wDbFAJTqDomW-yk1ceF-12" target="9wDbFAJTqDomW-yk1ceF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="380" />
+              <mxPoint x="280" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9wDbFAJTqDomW-yk1ceF-23" target="9wDbFAJTqDomW-yk1ceF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-23" value="Lector NFC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
