@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T16:43:00.671Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="J5oUM73uLmJA_zcuQYB1" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T16:49:07.609Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="dWS7WRMgVNUn68rCFOTo" version="23.1.5" type="github">
   <diagram name="Page-1" id="VyHNcZruvW4JUgFz-1xP">
     <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,16 +19,16 @@
         <mxCell id="9wDbFAJTqDomW-yk1ceF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="9wDbFAJTqDomW-yk1ceF-5" target="9wDbFAJTqDomW-yk1ceF-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9wDbFAJTqDomW-yk1ceF-5" value="Pagar con tarjeta de credito" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-5" value="Pagar con tarjeta de credito (CU3)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="265" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9wDbFAJTqDomW-yk1ceF-9" value="Identificar tarjeta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-9" value="Identificar tarjeta (CU4)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="140" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9wDbFAJTqDomW-yk1ceF-10" value="Identificar contacto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-10" value="Identificar contacto (CU1)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="410" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9wDbFAJTqDomW-yk1ceF-12" value="Ofrecer ayuda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-12" value="Ofrecer ayuda (CU2)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="355" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9wDbFAJTqDomW-yk1ceF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9wDbFAJTqDomW-yk1ceF-12" target="9wDbFAJTqDomW-yk1ceF-1">
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="9wDbFAJTqDomW-yk1ceF-23" value="Lector NFC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wDbFAJTqDomW-yk1ceF-25" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry width="850" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
