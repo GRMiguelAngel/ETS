@@ -2,17 +2,16 @@
 <img width=550 src="https://d3n817fwly711g.cloudfront.net/uploads/2018/08/Untitled-Document-7.png">
 
 # Índice
-* ### *¿Qué es un "diagrama de clases"?*
+* ### *<a href=#diaclases>¿Qué es un "diagrama de clases"?</a>*
 * ### *Clasificadores*
     * ### *Clases*
-    * ### *Mé*
     * ### *Métodos*
 * ### *Relaciones*
 * ### *Herencia*
 
 <br>
 
-### ¿Qué es un "diagrama de clases"?
+### <a id="diaclases">¿Qué es un "diagrama de clases"?</a>
 
 <br>
 
