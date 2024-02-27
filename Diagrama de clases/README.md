@@ -3,8 +3,8 @@
 
 # Índice
 * ### *<a href=#diaclases>¿Qué es un "diagrama de clases"?</a>*
-* ### *<a href=#clasif>Clasificadores*</a>*
-    * ### *<a href=#clases>Clases*</a>*
+* ### *<a href=#clasif>Clasificadores</a>*
+    * ### *<a href=#clases>Clases</a>*
     * ### *Métodos*
 * ### *Relaciones*
 * ### *Herencia*
