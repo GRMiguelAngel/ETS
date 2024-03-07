@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" modified="2024-03-07T15:19:14.114Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="5BqWu798OpRNvRr9uh1P" version="24.0.2" type="github">
+  <diagram name="Page-1" id="rEwJ49QIFA4-O7662yd-">
+    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-5" target="nTijCLF4B8-uIsvxYNcQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Pedido1:Pedido&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp; - orderID: int&lt;/div&gt;&lt;div&gt;&amp;nbsp; - dateCreated: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - dateShipped: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - customerName: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - customerID: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - status: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - shipping: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="550" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Cliente1:Cliente&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- customerName: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- address: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- creditCardInfo: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- shippingInfo: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- accountBalance: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- userId: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- password: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- loginStatus: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- registerDate: date&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="95" y="270" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-7" target="nTijCLF4B8-uIsvxYNcQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Cliente2:Cliente&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- customerName: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- address: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- creditCardInfo: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- shippingInfo: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- accountBalance: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- userId: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- password: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- loginStatus: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- registerDate: date&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="270" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-16" target="nTijCLF4B8-uIsvxYNcQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Cliente3:Cliente&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- customerName: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- address: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- creditCardInfo: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- shippingInfo: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- accountBalance: float&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- userId: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- password: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- loginStatus: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- registerDate: date&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="615" y="270" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-18" target="nTijCLF4B8-uIsvxYNcQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-20" target="nTijCLF4B8-uIsvxYNcQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Pedido2:Pedido&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp; - orderID: int&lt;/div&gt;&lt;div&gt;&amp;nbsp; - dateCreated: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - dateShipped: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - customerName: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - customerID: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - status: string&lt;/div&gt;&amp;nbsp; - shipping: string&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="550" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-22" target="nTijCLF4B8-uIsvxYNcQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Pedido3:Pedido&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp; - orderID: int&lt;/div&gt;&lt;div&gt;&amp;nbsp; - dateCreated: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - dateShipped: string&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - customerName: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - customerID: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - status: string&lt;/div&gt;&amp;nbsp; - shipping: string&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="455" y="550" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-26" value="Realiza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-30" value="Realiza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-46" target="nTijCLF4B8-uIsvxYNcQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-46" target="nTijCLF4B8-uIsvxYNcQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-46" target="nTijCLF4B8-uIsvxYNcQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-46" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Administrador1:Administrador&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp; - adminName: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; - email: string&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- userId: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- password: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- loginStatus: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- registerDate: date&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="40" width="195" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nTijCLF4B8-uIsvxYNcQ-46" target="nTijCLF4B8-uIsvxYNcQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-51" value="Monitoriza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-52" value="Monitoriza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTijCLF4B8-uIsvxYNcQ-53" value="Monitoriza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
