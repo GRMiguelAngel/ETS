@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" modified="2024-02-08T15:12:18.352Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="JaWI9r_2JU4DFKLjBHIZ" version="23.1.1" type="github">
+  <diagram name="Page-1" id="wbO4wGi9r-eH0PZXhu99">
+    <mxGraphModel dx="989" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-1" value="Paciente" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="78" y="56" width="100" height="984" as="geometry" />
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-2" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry width="849" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-3" value="Doctor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="270" y="56" width="100" height="984" as="geometry" />
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QmBT-IM6BjPe7ZwCeUGi-3">
+          <mxGeometry x="45" y="74" width="10" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-4" value="Operación" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="460" y="56" width="100" height="984" as="geometry" />
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-5" value="Prueba" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="56" width="100" height="984" as="geometry" />
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QmBT-IM6BjPe7ZwCeUGi-5">
+          <mxGeometry x="44.99999999999977" y="234" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="123" y="130" width="10" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-7" value="Chequeo medico" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" target="QmBT-IM6BjPe7ZwCeUGi-6" parent="1" source="QmBT-IM6BjPe7ZwCeUGi-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="203" y="135" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-8" value="feedback" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="170" as="targetPoint" />
+            <mxPoint x="133" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-14" value="Receta médica" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="210" as="sourcePoint" />
+            <mxPoint x="133" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-15" value="feedback" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="245" as="targetPoint" />
+            <mxPoint x="133" y="245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-16" value="Prescribe una prueba" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;exitX=-0.033;exitY=0.303;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QmBT-IM6BjPe7ZwCeUGi-9">
+          <mxGeometry x="0.3778" relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="sourcePoint" />
+            <mxPoint x="133" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="280" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-17" value="Participa en la prueba" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" target="QmBT-IM6BjPe7ZwCeUGi-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="133" y="320" as="sourcePoint" />
+            <mxPoint x="610" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-19" value="Devuelve los resultados" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="704.9999999999998" y="350" as="sourcePoint" />
+            <mxPoint x="133" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmBT-IM6BjPe7ZwCeUGi-24" value="Análisis de los resultados" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="133" y="390" as="sourcePoint" />
+            <mxPoint x="315" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

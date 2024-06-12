@@ -1,0 +1,128 @@
+<mxfile host="app.diagrams.net" modified="2024-02-21T17:30:54.087Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="f66rq18haroNCj4rk2m4" version="23.1.5" type="github">
+  <diagram name="Page-1" id="pvRRpCcLM16Px7FFzudn">
+    <mxGraphModel dx="1434" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-26" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="690" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-10" value="Socio" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="100" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-9" value="Lector NFC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="630" y="60" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-8" value="Cliente" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RotGb6i1i9LXdO6Hv8TP-8">
+          <mxGeometry x="45" y="70" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="RotGb6i1i9LXdO6Hv8TP-8" source="RotGb6i1i9LXdO6Hv8TP-12" target="RotGb6i1i9LXdO6Hv8TP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RotGb6i1i9LXdO6Hv8TP-8">
+          <mxGeometry x="45" y="390" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry width="850" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-17" value="Identificar contacto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-20" value="Realizar&amp;nbsp; pago con tarjeta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="470" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=0.063;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RotGb6i1i9LXdO6Hv8TP-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-27" value="Identificación incorrecta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="RotGb6i1i9LXdO6Hv8TP-28" target="RotGb6i1i9LXdO6Hv8TP-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="260" />
+              <mxPoint x="290" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="155" y="250" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="415" y="250" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-31" value="Pedir ayuda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="238" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-32" value="Ofrecer ayuda" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="RotGb6i1i9LXdO6Hv8TP-30" target="RotGb6i1i9LXdO6Hv8TP-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="340" as="sourcePoint" />
+            <mxPoint x="380" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-33" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="690" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-34" value="Validación de tarjeta inválida" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="670" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="675" y="720" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="155" y="720" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-38" value="Pedir datos de la tarjeta" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="RotGb6i1i9LXdO6Hv8TP-35" target="RotGb6i1i9LXdO6Hv8TP-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="730" as="sourcePoint" />
+            <mxPoint x="600" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-40" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="675" y="490" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-42" value="Pedir datos de la tarjeta" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="539.9999999999998" as="targetPoint" />
+            <mxPoint x="675" y="539.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="RotGb6i1i9LXdO6Hv8TP-19" target="RotGb6i1i9LXdO6Hv8TP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-44" value="Introducir datos de la tarjeta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="RotGb6i1i9LXdO6Hv8TP-36" target="RotGb6i1i9LXdO6Hv8TP-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-46" value="Introducir datos de la tarjeta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="770" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="155" y="360" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="RotGb6i1i9LXdO6Hv8TP-47" target="RotGb6i1i9LXdO6Hv8TP-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-49" value="Identificar contacto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-50" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="145" y="890" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-51" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="405" y="880" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RotGb6i1i9LXdO6Hv8TP-52" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="665" y="890" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
